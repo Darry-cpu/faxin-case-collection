@@ -1,0 +1,10 @@
+# 本地运行时产生的文件（不应发布）
+__pycache__/
+*.pyc
+cmd.json
+ready.json
+tasks.json
+done_idx.json
+browser_launch.log
+cases/
+*.pdf
